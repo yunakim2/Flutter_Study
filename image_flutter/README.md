@@ -19,7 +19,7 @@
   Image.network('https://picsum.photos/250?image=9')
   ~~~
 
-<p align="center"><img src="./Image/6.png" alt="Register" height="500px" /></p>
+<p align="center"><img src="/Image/6.png" alt="Register" height="500px" /></p>
 
 <br>
 
@@ -47,7 +47,7 @@ FadeInImage.memoryNetwork(
 
 https://pub.dev/packages/transparent_image/install
 
-<p align="center"><img src="./Image/4.gif" alt="Register" height="500px" /></p>
+<p align="center"><img src="/Image/4.gif" alt="Register" height="500px" /></p>
 
 <br>
 
@@ -105,6 +105,6 @@ CachedNetworkImage(
 
 https://pub.dev/packages/cached_network_image/install
 
-<p align="center"><img src="./Image/7.gif" alt="Register" height="500px" /></p>
+<p align="center"><img src="/Image/7.gif" alt="Register" height="500px" /></p>
 
 <br>

@@ -38,7 +38,7 @@ InkWell(
 
 ~~~
 
-<p align="center"><img src="./Image/1.gif" alt="Register" height="500px" /></p>
+<p align="center"><img src="/Image/1.gif" alt="image1" height="500px"/></p>
 
 <br>
 
@@ -75,7 +75,7 @@ GestureDetector(
 
 ~~~
 
-<p align="center"><img src="./Image/2.gif" alt="Register" height="500px" /></p>
+<p align="center"><img src="/Image/2.gif" alt="image2" height="500px" /></p>
 
 <br>
 
@@ -162,7 +162,7 @@ Dismissible(
 
 ~~~
 
-<p align="center"><img src="./Image/3.gif" alt="Register" height="500px" /></p>
+<p align="center"><img src="/Image/3.gif" alt="image3" height="500px" /></p>
 
 <br>
 
